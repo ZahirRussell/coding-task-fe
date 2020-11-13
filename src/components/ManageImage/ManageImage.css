@@ -1,0 +1,14 @@
+.upload__image-wrapper{
+    text-align: center;
+}
+
+.upload__image-wrapper #upload, #removeAll{
+    width: 150px;
+    transition: all .5s ease;
+    margin: 10px;
+    font-size: 20px;
+    padding: 5px 8px;
+    outline: none;
+    cursor: pointer;
+    position:relative;
+}

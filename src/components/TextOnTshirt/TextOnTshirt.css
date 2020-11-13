@@ -1,0 +1,27 @@
+
+
+
+
+.tShirt-content{
+    position: relative;
+}
+.tShirt{
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.drag-box{
+    color: #000000;
+    position: absolute;
+    top: 40%;
+    left: 46%;
+    font-size: 25px;
+    
+}
+
+.btnWrite{
+    position: relative;
+    left: 48%;
+}
